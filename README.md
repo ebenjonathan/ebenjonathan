@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Cloud+Engineer;Systems+Developer;React+Developer&center=false&width=380&height=28&color=ffffff&vCenter=true&size=14"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Cloud+Engineer;UX/UI+Designer;React+Developer&center=false&width=380&height=28&color=ffffff&vCenter=true&size=14"/>
 </p>
 
 **Jonathan Mupini**  
